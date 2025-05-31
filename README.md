@@ -1,6 +1,6 @@
-### Hi there 👋 I'm [Your Name]!
+### Hi there 👋 I'm Moneeb!
 
-I'm a passionate **C#/.NET Desktop Application Developer** with expertise in building robust, full-stack solutions using **Windows Forms** and **complex SQL database management**.
+I'm a passionate **C#/.NET Desktop Application Developer**, fascinated by diverse tech & platforms, with expertise in building robust, full-stack solutions using **Windows Forms** and **complex SQL database management**.
 
 ---
 
