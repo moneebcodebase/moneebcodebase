@@ -9,7 +9,7 @@ I'm a passionate **C#/.NET Desktop Application Developer**, fascinated by divers
 * **Languages:** C#, SQL, Python (Foundational), PHP (Foundational)
 * **Markup/Styling:** HTML (Foundational), CSS (Foundational)
 * **Frameworks & Libraries:** .NET Framework, Windows Forms
-* **Database Technologies:** SQL Server (if that's what you used, otherwise just SQL), Relational Database Design
+* **Database Technologies:** SQL Server, Relational Database Design
 * **Tools & Concepts:** Git, GitHub, Object-Oriented Programming (OOP), CRUD Operations, User Authentication, Data Modeling, Application Architecture,  Systems Analysis, Debugging, Error Handling, Data 
                         Validation, Software Development Life Cycle (SDLC).
 
@@ -26,7 +26,7 @@ I'm passionately leveraging my existing knowledge to master **distinct technolog
 #### Driver & Licensing Management System
 * **Repository:** [Link to your Project Repository on GitHub] (e.g., `https://github.com/YourUsername/YourProjectName`)
 * **Description:** A comprehensive desktop application managing driver licenses and traffic data, including a 14-table database, user management, people management, a complete license issuance workflow including 
-                   Driving tests. This program can
+                   Driving tests.
 
 ---
 
