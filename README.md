@@ -24,7 +24,7 @@ I'm passionately leveraging my existing knowledge to master **distinct technolog
 ### 📌 Featured Project:
 
 #### Driver & Licensing Management System
-* **Repository:** [Link to your Project Repository on GitHub] (e.g., `https://github.com/YourUsername/YourProjectName`)
+* **Repository:** https://github.com/moneebcodebase/Driving-Vehicle-License-Department
 * **Description:** A comprehensive desktop application managing driver licenses and traffic data, including a 14-table database, user management, people management, a complete license issuance workflow including 
                    Driving tests.
 
@@ -32,5 +32,5 @@ I'm passionately leveraging my existing knowledge to master **distinct technolog
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [Link to your LinkedIn Profile]
+* **LinkedIn:** www.linkedin.com/in/moneeb-al-zakoot
 * **Email:** moneebcodebase@gmail.com
